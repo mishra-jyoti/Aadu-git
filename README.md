@@ -1,2 +1,3 @@
 # Aadu-git
-My first github project
+My first git repository
+Author-Jyotirmayee Mishra
